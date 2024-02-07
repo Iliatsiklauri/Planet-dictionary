@@ -1,7 +1,7 @@
 import './App.css';
 
 function App() {
-  return <>git</>;
+  return <></>;
 }
 
 export default App;
